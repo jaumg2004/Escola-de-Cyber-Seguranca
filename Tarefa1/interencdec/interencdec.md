@@ -34,10 +34,11 @@ print(text)
 ```
 Obs.: caso necessário, alterar o código pra continuar decodificando.
 
-No final retorna `wpjvJAM{jhlzhy_k3jy9wa3k_890k2379}`, sendo essa a flag codificada com Cifra de Cesar, basta utilizar um decodificador de CC, pra capturar a flag. ![img_1.png](img_1.png)
+No final retorna `wpjvJAM{jhlzhy_k3jy9wa3k_890k2379}`, sendo essa a flag codificada com Cifra de Cesar. Basta utilizar um decodificador de CC, pra capturar a flag. ![img_1.png](img_1.png)
 Obs.: fui testando os deslocamentos de 0 á 26 até achar a flag
 
 ### Flag
 
 
 `picoCTF{caesar_d3cr9pt3d_890d2379}`
+
